@@ -1,0 +1,11 @@
+{
+  "name": "mdt",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "request-promise-native": "^1.0.9"
+  }
+}
